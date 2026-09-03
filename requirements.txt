@@ -1,0 +1,5 @@
+assemblyai
+pyaudio
+elevenlabs
+openai
+python-dotenv
